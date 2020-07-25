@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+.principal img{
+    margin-top: 2cm;
+    width: 40%;
+    margin-left: 3cm;
+}
+.principal div{
+    margin-left: 20%;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 90px;
+    margin-top: 2cm;
+}
+ .principal nav{
+    list-style: none;
+
+ }
+
+ .principal li{
+     margin-top: 2cm;
+ }
+ .navbar{
+     height: 2cm;
+     font-size: 30px;
+     background-color: #a5766d !important;
+
+    
+ }
+ .navbar-brand{
+     margin-right: 300px;
+ }
+
+ .nav-item{
+     margin-right: 200px;
+ }
+ a{
+    color: antiquewhite !important;;
+    margin-right: 1cm;
+ }
+ .dropdown-item {
+    color: black !important;
+}
+body{
+    background-color:#e6c8c1 ;
+}
+
+.navbar-brand{
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 40px;
+}
+.flores {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 80px;
+    width: 100%;
+    margin-top: 100PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flores img{
+    margin-top: 70px;
+}
+.que p{
+    font-family: 'Inconsolata', monospace;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.Bach h3{
+    font-family:'Cedarville Cursive', cursive;
+    font-size: 60px;
+
+}
+.uno .numero{
+    border: solid 5px black;
+    border-radius: 360px;
+    width: 100px;
+    height: 100px;
+    border-style: dashed;
+    font-size: 70px;
+    font-family:'Cedarville Cursive', cursive; ;
+    text-align: center;
+    margin-right: 50px;
+  
+   
+}
+
+.uno h2{
+    font-family:'Cedarville Cursive', cursive; ;
+    font-size: 50px;
+}
+.uno{
+    display: flex;
+    flex-direction: column;  
+}
+.uno div{
+    margin-bottom: 100px;
+}
+
+.contacto h1{
+    text-align: center;
+    margin: auto;
+    margin-top: 1cm;
+    margin-bottom: 30px;
+    
+}
+.contactanos img:hover{
+    filter: invert(50%);
+
+}
+.diagnostico h2{
+    font-family:'Cedarville Cursive', cursive; ;
+    font-size: 50px;
+    text-align: center;
+     border: dashed 5px black;
+     border-radius: 50px;
+
+}
+.diagnostico a{
+    margin-left: 35%;
+
+}
+
+.diagnostico h2:hover{
+    background-color: #86895d ;
+    
+}
+
+
+.dropdown-menu{
+    border: white solid 1px;
+    border-radius: 5px;
+}
+.dropdown-item:hover{
+    border-radius: 10px;
+}
+
+.dropdown-item {
+    color: black !important;
+    font-size: 30px !important;
+    border-radius: 10px;
+    
+
+}
+.dropdown-item:hover{
+    background-color: #e6c8c1 !important;
+}
+.dropdown-menu {
+    background-color: #a9aa93 !important;
+}

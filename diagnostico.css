@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+.principal div{
+    margin-left: 20%;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive !important;
+    font-size: 90px !important;
+    margin-top: 150px !important;
+    text-align: center;
+}
+ .principal nav{
+    list-style: none;
+
+ }
+
+ .principal li{
+     margin-top: 2cm;
+ }
+ .navbar{
+     height: 2cm;
+     font-size: 30px;
+     background-color: #a5766d !important;
+
+    
+ }
+ .navbar-brand{
+     margin-right: 300px !important;
+ }
+
+ .nav-item{
+     margin-right: 200px;
+ }
+ a{
+    color: antiquewhite !important;
+    margin-right: 1cm !important;
+ }
+ .dropdown-item {
+    color: black !important;
+    font-size: 30px !important;
+    border-radius: 10px;
+    
+
+}
+.dropdown-item:hover{
+    background-color: #e6c8c1 !important;
+}
+.navbar-brand{
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 40px !important;
+}
+body{
+    background-color:#e6c8c1 !important;
+}
+
+.registro h2{
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 50px;
+    margin-left: 50px;
+}
+.re {
+ width: 800px !important;
+  border: dashed 5px black;
+  border-radius: 50px;
+  margin-top: 100px;
+  padding-top: 40px;
+}
+.registro{
+    text-align: center;
+    display: flex;
+  align-items: center;
+    
+}
+.registro input{
+    width: 500px;
+    height: 50px;
+    border-radius: 60px;
+}
+.registro .enviar{
+    margin-bottom: 50px;
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 40px;
+
+}
+.registro .enviar:hover{
+    background-color: #a9aa93;
+}
+
+.enviar{
+    font-family:'Cedarville Cursive', cursive  ;
+    margin-top: 50px;
+}
+
+.dropdown-menu {
+    background-color: #a9aa93 !important;
+}

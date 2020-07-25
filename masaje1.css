@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+.principal img{
+    margin-top: 2cm;
+    width: 40%;
+    margin-left: 3cm;
+}
+.principal div{
+    margin-left: 20%;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive !important;
+    font-size: 90px !important;
+    margin-top: 150px !important;
+    text-align: center;
+}
+ .principal nav{
+    list-style: none;
+
+ }
+
+ .principal li{
+     margin-top: 2cm;
+ }
+ .navbar{
+     height: 2cm;
+     font-size: 30px;
+     background-color: #a5766d !important;
+
+    
+ }
+ .navbar-brand{
+     margin-right: 300px;
+ }
+
+ .nav-item{
+     margin-right: 200px !important;
+ }
+ a{
+    color: antiquewhite !important;;
+    margin-right: 1cm !important;
+ }
+ .dropdown-item {
+    color: black !important;
+}
+body{
+    background-color:#e6c8c1 !important ;
+}
+
+.navbar-brand{
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 40px !important;
+    margin-right: 7.5cm !important;
+}
+.masaje{
+    margin-top: 2cm;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.mas{
+    text-align: center;
+    font-size: 30px;
+}
+
+.tipos{
+    display: flex;
+    justify-content: space-between;
+    margin-left:8cm;
+    color: black;
+}
+.tipos h4{
+    color: black;
+    border: dashed 3px black;
+    border-radius: 50px;
+    padding: 5px;
+}
+.tipos h4:hover{
+    background-color:  #86895d ;
+}
+
+.tip{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+}
+.row .tit{
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 70px;
+    margin-bottom: 40px;
+    margin-top: 5cm;
+}
+.beneficios{
+    margin-top: 40px;
+   font-family:  'Inconsolata', monospace;
+   margin-bottom: 400px;
+}
+.beneficios h4{
+    margin-bottom: 30px;
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 50px;
+    
+}
+.agenda{
+    text-align: center;
+    font-family:  'Inconsolata', monospace;
+    border: dashed 3px black;
+    border-radius: 50px;
+    color: black;
+    margin-left: 45px;
+    margin-top: 13cm;
+
+}
+.ag p{
+    color: black;
+    font-family:'Cedarville Cursive', cursive ;
+    font-size: 50px;
+   
+}
+.agenda:hover{
+    background-color:  #86895d ;
+}
